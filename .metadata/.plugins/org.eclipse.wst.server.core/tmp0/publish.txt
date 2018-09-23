@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Sun Jun 10 15:10:37 CST 2018
+org.eclipse.jst.jee.server\:/binary\:/Users/waynewang/.m2/repository/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar
+org.eclipse.jst.j2ee.server\:taotao-manager-service=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web/WEB-INF/lib/taotao-manager-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:taotao-manager-web=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web
+org.eclipse.jst.j2ee.server\:taotao-manager-pojo=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web/WEB-INF/lib/taotao-manager-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:taotao-common=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web/WEB-INF/lib/taotao-common-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:taotao-manager-mapper=/Users/waynewang/local/apache-tomcat-7.0.78/wtpwebapps/taotao-manager-web/WEB-INF/lib/taotao-manager-mapper-0.0.1-SNAPSHOT.jar
